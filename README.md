@@ -1,4 +1,4 @@
-# Piggy metrics Local Host version
+# Piggy metrics Local Host Version
 
 ## Overview
 A local deployed version of piggymetrics (https://github.com/sqshq/piggymetrics) without using docker.
